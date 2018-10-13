@@ -1,0 +1,10 @@
+BillGates, 1
+BarackObama, 2
+HillaryClinton, 3
+katyperry, 4
+IvankaTrump, 5
+realDonaldTrump, 6
+LeoDiCaprio, 7
+narendramodi, 8
+BillClinton, 9
+GeorgeHWBush, 10
